@@ -5,13 +5,13 @@ collaborative, community driven open source projects subjected
 to adversarial or competitive action by
 actors with ties to scikit-learn and probabl, within the last year:
 
-* lifelines - new **copycat project** "hazardous", a "flagship" project of probabl
+* `lifelines` - new **copycat project** "`hazardous`", a "flagship" project of probabl
   funded and promoted for survival/hazard prediction, despite its incomplete,
   non-functional state; heavily wraps lifelines without proper credit
-* pyportfolioopt - new **copycat project** "skfolio",
+* `pyportfolioopt` - new **copycat project** "`skfolio`",
   promoted by scikit-learn social media accounts. One key maintainer of pyportfolioopt
   points prospective contributors to skfolio instead of the original.
-* skopt - one maintainer, a core dev of scikit-learn, **shut down the project
+* `skopt` / `scikit-optimize` - one maintainer, a core dev of scikit-learn, **shut down the project
   without informing other maintainers**, despite credible commitments
   to maintenance; kept ghosting their attempts at contact.
 
