@@ -60,7 +60,7 @@ vs values:
 
 probabl involvement or relation:
 
-* owned by a French corporate developer, connected with affilates of sklearn, probabl, numfocus
+* skfolio owned by a French corporate developer, connected with affilates of sklearn, probabl, numfocus
 * promoted heavily by official scikit-learn account. This is very rare for "unaffiliated" pcakages.
 
 vs values:
