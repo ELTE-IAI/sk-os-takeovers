@@ -55,7 +55,7 @@ vs values:
 * promoted by official scikit-learn account on linkedin: [linkedin post URL](https://www.linkedin.com/posts/scikit-learn_github-skfolioskfolio-python-library-activity-7152698232442093570-01Bk?utm_source=share&utm_medium=member_desktop), [screenshot](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-pyportfolioopt/skfolio-linkedinpost-2024-Feb.jpg)
 * pyportfolio started to broadcast "requesting maintenance" messages in 2022.
   [message "looking for maintainers" on readme from 2022-11-26 to 2023-04-21](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-pyportfolioopt/pyportfolioopt-maintainer-search-2023.jpg)
-* when writing to single email given in readme, [maintainer points to skfolio](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-pyportfolioopt/skfolio-email1-2024-01-24.jpg)
+* when writing to single email given in readme ([screenshot of pointer until 2024-03](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-pyportfolioopt/pyportfolioopt-single-email-2024-03-12)), [maintainer points to skfolio](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-pyportfolioopt/skfolio-email1-2024-01-24.jpg)
 * [maintainer then ghosts and does not onboard](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-pyportfolioopt/skfolio-email2-2024-01-24.jpg)
 
 probabl involvement or relation:
