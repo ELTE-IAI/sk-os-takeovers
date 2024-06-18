@@ -1,4 +1,4 @@
-# sk-os-takeovers
+## open source under adversarial action by probabl and affiliates
 
 This repository documents background material about three cases of
 collaborative, community driven open source projects subjected
