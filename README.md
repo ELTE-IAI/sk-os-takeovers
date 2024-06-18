@@ -2,7 +2,7 @@
 
 This repository documents background material about three cases of
 collaborative, community driven open source projects subjected
-to adversarial or competitive action by
+to adversarial or competitive action under involvement of
 actors with ties to scikit-learn and probabl, within the last year:
 
 * `lifelines` - new **copycat project** "`hazardous`", a "flagship" project of probabl
