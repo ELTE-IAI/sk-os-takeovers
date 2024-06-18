@@ -73,6 +73,7 @@ vs values:
 * cornerstone package for ML/AI algorithm tuning
 * repo was archived on Feb 28, 2024, to the surprise of some maintainers.
   This effectively sends out a message that the project is defunct.
+  [screenshot of archiving message](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-skopt/skopt-archived-2024-02-28.jpg)
 * done by betatim (Tim Head) without communicating with other maintainers,
   despite credible commitment to continued maintenance. See discussion
   with locked out maintainer [part 1](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-skopt/skopt-discussion1-2024-06-03.jpg) [part 2](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-skopt/skopt-discussion2-2024-06-04.jpb) [part 3](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-skopt/skopt-discussion3-2024-06-04.jpg) [part 4](https://github.com/ELTE-IAI/sk-os-takeovers/blob/main/re-skopt/skopt-discussion3-2024-06-10.jpg)
